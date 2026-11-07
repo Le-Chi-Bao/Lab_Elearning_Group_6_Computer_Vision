@@ -1,0 +1,42 @@
+[
+  {
+    "method": "OpenCV",
+    "median_ms": 0.6322999979602173,
+    "edge_pixels": 1137,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "method": "scikit-image",
+    "median_ms": 7.100199996784795,
+    "edge_pixels": 1099,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "method": "Manual",
+    "median_ms": 14.396400001714937,
+    "edge_pixels": 1137,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "method": "Sobel magnitude",
+    "median_ms": 1.662800001213327,
+    "edge_pixels": 4141,
+    "precision": 0.9533929002656363,
+    "recall": 1.0,
+    "f1": 0.9761404376313512
+  },
+  {
+    "method": "Laplacian magnitude",
+    "median_ms": 0.8185999977285974,
+    "edge_pixels": 9124,
+    "precision": 0.4598860149057431,
+    "recall": 1.0,
+    "f1": 0.63003003003003
+  }
+]
