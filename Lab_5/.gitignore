@@ -1,0 +1,6 @@
+# Ảnh khuôn mặt cá nhân + CSDL embedding — không push lên git
+Lab_5/data/raw/faces/
+
+# Cache Python
+__pycache__/
+*.pyc
